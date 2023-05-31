@@ -1,0 +1,14 @@
+---
+rules:
+  braces: enable
+  colons: enable
+  comments-indentation: enable
+  comments: enable
+  document-start: enable
+  empty-lines: enable
+  indentation: enable
+  key-duplicates: enable
+  line-length: disable
+  new-line-at-end-of-file: enable
+  trailing-spaces: enable
+  truthy: enable
